@@ -1,0 +1,35 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: #F7F7F7;
+}
+
+.container {
+  background-color: #caebf9;
+  margin: 30px auto;
+  box-shadow: 2px 2px 10px lightgrey;
+  padding: 50px 70px;
+}
+
+li {
+  list-style: none;
+  font-family: 'Didact Gothic';
+  font-size: 28px;
+}
+
+p {
+  font-family: 'Didact Gothic';
+}
+
+i {
+  font-size: 20px;
+  font-family: 'Didact Gothic';
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Rubik Mono One'
+}
+
+
